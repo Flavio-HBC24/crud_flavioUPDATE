@@ -1,0 +1,21 @@
+a{
+    display: block;
+}
+
+img{
+    width: 500px;
+}
+
+table, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+header {
+    background-color: #b30000;
+    display: flex;
+    height: 5.0rem;
+    justify-content: center;
+    color: white;
+}
+
